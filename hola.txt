@@ -1,1 +1,3 @@
 hola a todos :D
+esto es una prueba para aprender a usar github, asi que los archivos de este proyecto 
+son bastante irrelevantes no tienen nada especial.
